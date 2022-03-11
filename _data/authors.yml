@@ -1,0 +1,19 @@
+# /_data/authors.yml
+
+Ruiyuan:
+  name        : "Ruiyuan(Ralph) Kang"
+  bio    : "Learn and share, enjoy peaceful life"
+  avatar      : "/assets/images/bio-photo.jpg"
+  links:
+    - label: "知乎"
+      icon: "fab fa-brands fa-zhihu"
+      url: "https://www.zhihu.com/people/94de0974588f74ca413425140b018322"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/RY_Kang666"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/RalphKang"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/ruiyaunkang/"
