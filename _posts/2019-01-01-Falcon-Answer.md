@@ -11,9 +11,7 @@ author: Ruiyuan
 Falcon_Answer is a 300-seats class airliner designed for future commercial flight;  
 it is a beautiful coupling of Blended Wing Body (BWB) and Distributed Propulsion System (DPS).  
 It is ranked 3rd in Dassult Future Aerospace creation competition (2018) among more than 200 teams from China.  
-The designers are here: Ruiyuan Kang, Ruiwu Lei, Yuan Gao, Cheng Ren, Danyang Xu.
+The designers are here: Ruiwu Lei,Ruiyuan Kang, Yuan Gao, Cheng Ren, Danyang Xu.
 
-<h3>Slide Deck</h3>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTkLpwl9AsvuEdmgpEGn2oK-CgGTzhRaNu849oZZje4oNCYPgA5DYqW6Tj-IW6sLw/embed?start=true&loop=true&delayms=2000" frameborder="0" width="794" height="590" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-<!-- <iframe src="//www.slideshare.net/slideshow/embed_code/key/BBqOmZVc5CAZFB" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/RalphKang1/falcon-answer-post" title="Falcon answer post" target="_blank">Falcon answer post</a> </strong> from <strong><a href="//www.slideshare.net/RalphKang1" target="_blank">RalphKang1</a></strong> </div> -->
+<h3>Poster of Falcon Answer </h3>
+<iframe src="https://onedrive.live.com/embed?cid=C105BDF0AF0E1855&amp;resid=C105BDF0AF0E1855%211424&amp;authkey=AGLQY8NbBdhBc24&amp;em=2&amp;wdAr=1.414438502673797&amp;wdEaaCheck=1" width="800px" height="600px" frameborder="0">这是嵌入 <a target="_blank" href="https://office.com">Microsoft Office</a> 演示文稿，由 <a target="_blank" href="https://office.com/webapps">Office</a> 提供支持。</iframe>
