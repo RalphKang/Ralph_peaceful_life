@@ -2,9 +2,47 @@
 main:
   - title: "Posts"
     url: /posts/
+  - title: "AI"
+    url: /ML/CAM/
+  - title: "Aerospace"
+    url: /aerospace/falcon-answer/
+  - title: "Life"
+    url: /Life/cctv-report/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
     url: /tags/
   - title: "About"
     url: /about/
+
+
+Aerospace:
+  - title: My idea
+    children:
+      - title: "Airliner Design: Falcon-Answer"
+        url: /aerospace/falcon-answer/
+
+  - title: visit
+    children:
+      - title: "UMEX 2022"
+        url: /aerospace/UMEX2022/
+
+
+
+ML:
+  - title: Deep Learning
+    children:
+      - title: "Visualization Tech: CAM"
+        url: /ML/CAM/
+
+
+
+
+
+Life:
+  - title: Vlog
+    children:
+      - title: "CCTV report: Home Quanrantine"
+        url: /Life/cctv-report/
+      - title: "Memory in Georgia"
+        url: /Life/memory-in-georgia/

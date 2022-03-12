@@ -5,7 +5,7 @@ categories:
 tags:
   - Travel
 author: Ruiyuan
-permalink: Video/Georgia_memory
+permalink: /Life/memory-in-georgia/
 
 ---
 ## Abstract

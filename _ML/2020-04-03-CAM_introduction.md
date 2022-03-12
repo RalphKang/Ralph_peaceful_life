@@ -3,9 +3,9 @@ title: CAM Introduction (Chinese)
 categories:
   - Blog
 tags:
-  - ML/DL
+  - Deep Learning
 author: Ruiyuan
-permalink: ideas/CAM_introduction
+permalink: /ML/CAM/
 
 toc: true
 toc_label: "CAM Introduction (Chinese)"
