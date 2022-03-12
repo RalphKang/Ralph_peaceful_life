@@ -22,6 +22,7 @@ github_username: RalphKang
 minimal_mistakes_skin: sunrise # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: true
 
+
 # Build settings
 markdown: kramdown
 mathjax: true # false (default), true
