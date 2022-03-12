@@ -14,10 +14,10 @@ It is ranked 3rd in First Dassult Aero-Design Future Aerospace creation competit
 
 [News link](https://www.sohu.com/a/283734815_115926){: .btn .btn--info}
 
-![team-member](\assets\team_member.jpg)
+![avater](\assets\team_member.jpg)
 
 <center>The designers are: Ruiwu Lei,Ruiyuan Kang, Yuan Gao, Cheng Ren, Danyang Xu.</center>
 
 
- ## The poster share  
+## The poster share  
 <iframe src="https://onedrive.live.com/embed?cid=C105BDF0AF0E1855&amp;resid=C105BDF0AF0E1855%211424&amp;authkey=AGLQY8NbBdhBc24&amp;em=2&amp;wdAr=1.414438502673797&amp;wdEaaCheck=1" width="800px" height="600px" frameborder="0">这是嵌入 <a target="_blank" href="https://office.com">Microsoft Office</a> 演示文稿，由 <a target="_blank" href="https://office.com/webapps">Office</a> 提供支持。</iframe>
