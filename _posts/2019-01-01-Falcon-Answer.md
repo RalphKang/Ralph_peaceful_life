@@ -16,7 +16,7 @@ It is ranked 3rd in First Dassult Aero-Design Future Aerospace creation competit
 
 ![avater](/Ralph_peaceful_life/assets/team_member.png)
 
-<center>The designers are: Ruiwu Lei,Ruiyuan Kang, Yuan Gao, Cheng Ren, Danyang Xu.</center>
+<center><h4>The designers are: Ruiwu Lei,Ruiyuan Kang, Yuan Gao, Cheng Ren, Danyang Xu.</h4></center>
 
 
 ## The poster share  
