@@ -3,6 +3,15 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+## Profession
+<font size ="4">
+This place is used to share Ruiyuan(Ralph) Kang's ideas and life, yeah, it's me. <br />
+I'm temporally a PhD candidate in Khalifa University, Abu Dhabi, UAE;  
+a member of KU-Alibaba intelligent Energy Lab.<br />   
+My research interest mainly focuses on Machine learning on flame/gas diagnostics.<br />  
+Meanwhile, I'm also a crazy fan of Aerospace, I have ever been educated and done some research in this field systematically for 8 years.<br /> </font>
+## Self life
+<font size ="4">As a normal boy, I pretty like to play basketball. <br /> However, since the "lovely" weather in Abu, I have to turn to gym and play weights most of time.</font>
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+## Where you can find me
+<font size ="4"> I think the website is full of my footprints  </font>
