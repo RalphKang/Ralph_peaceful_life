@@ -1,11 +1,9 @@
 ---
-title: Airliner Design--Falcon-Answer
-permalink: Aerospace/Falcon_Answer
-categories:
-  - Blog
-tags:
-  - Aerospace
+title: Falcon-Answer
 author: Ruiyuan
+permalink: /aerospace/falcon-answer/
+sidebar:
+  nav: "Aerospace"
 ---
 
 Falcon_Answer is a 300-seats class airliner designed for future commercial flight;  
