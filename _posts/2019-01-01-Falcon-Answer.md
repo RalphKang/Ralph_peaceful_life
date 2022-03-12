@@ -16,7 +16,8 @@ It is ranked 3rd in First Dassult Aero-Design Future Aerospace creation competit
 
 ![team-member](\assets\team_member.jpg){: .full}  
 
-The designers are: Ruiwu Lei,Ruiyuan Kang, Yuan Gao, Cheng Ren, Danyang Xu.{: .text-center}
+The designers are: Ruiwu Lei,Ruiyuan Kang, Yuan Gao, Cheng Ren, Danyang Xu.
+{: .text-center}
 
 
  ## The poster share  
