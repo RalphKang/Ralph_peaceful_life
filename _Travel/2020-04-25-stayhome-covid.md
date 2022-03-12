@@ -6,7 +6,7 @@ tags:
   - life
   - Report
 author: Ruiyuan
-permalink: Video/vlog_quarantine
+permalink: /Life/cctv-report/
 
 ---
 ## 简介

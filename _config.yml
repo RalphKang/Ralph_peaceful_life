@@ -90,6 +90,17 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/ruiyaunkang/"
+
+collections:
+  ML:
+    output: true
+  Aerospace:
+    output: true
+  Travel:
+    output: true
+
+
+
 defaults:
   # _posts
   - scope:
@@ -109,6 +120,39 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _ML
+  - scope:
+      path: ""
+      type: ML
+    values:
+      layout: single
+      author_profile: false
+      share: true
+      comment: true
+      sidebar:
+        nav: "ML"
+  # _Aerospace
+  - scope:
+      path: ""
+      type: Aerospace
+    values:
+      layout: single
+      author_profile: false
+      share: true
+      comment: true
+      sidebar:
+        nav: "Aerospace"
+  # _Travel
+  - scope:
+      path: ""
+      type: Travel
+    values:
+      layout: single
+      author_profile: false
+      share: true
+      comment: true
+      sidebar:
+        nav: "Life"
 
 category_archive:
   type: liquid
