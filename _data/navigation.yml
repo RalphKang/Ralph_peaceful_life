@@ -1,13 +1,13 @@
 # main links
 main:
-  - title: "Posts"
-    url: /posts/
   - title: "AI"
     url: /ML/CAM/
   - title: "Aerospace"
     url: /aerospace/falcon-answer/
   - title: "Life"
     url: /Life/cctv-report/
+  - title: "Posts"
+    url: /posts/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
