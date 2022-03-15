@@ -13,11 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
 title: Ruiyuan Kang's peaceful life
 repository: RalphKang/Ralph_peaceful_life
 email: kang1528530671@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
     Ruiyuan Kang(康瑞元)'s personal site
+url: https://www.ralphkang.top
 twitter_username: RY_Kang666
 github_username: RalphKang
 minimal_mistakes_skin: sunrise # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
