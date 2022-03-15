@@ -12,7 +12,7 @@ It is ranked 3rd in First Dassult Aero-Design Future Aerospace creation competit
 
 [News link](https://www.sohu.com/a/283734815_115926){: .btn .btn--info}
 
-![avater](/Ralph_peaceful_life/assets/team_member.png)
+![avater](/assets/team_member.png)
 
 <center><h4>The designers are: Ruiwu Lei,Ruiyuan Kang, Yuan Gao, Cheng Ren, Danyang Xu.</h4></center>
 
