@@ -31,7 +31,7 @@ Activation Map，分类激活图， 是一种比较老（发源于2017年）的�
 
 如果熟悉CNN的话，我们知道CNN的本质是提取特征，而且是从局部到全局的提取，hierarchically，（感觉这一个单词省了好多文字）。这时候不得不放一张经典的图了。
 
-![avater](/Ralph_peaceful_life/assets/figures_cam/CNN_feature.png)
+![avater](/assets/figures_cam/CNN_feature.png)
 <center> CNN 学习的特征可视化[1] </center>
 
 可以看到，从底层到顶层，CNN学的就是从边边角角到具体化的凝结物，比如车轮什么的，当然还有一些好像神秘学的符号。
@@ -59,7 +59,7 @@ $$ image\propto\sum_i^n a_{i}f_{i}$$
 
 至于权重问题，CAM 给出的答案很粗暴——咱们再算一遍！
 具体的操作如下图所示。
-![avater](/Ralph_peaceful_life/assets/figures_cam/cam_idea.png)
+![avater](/assets/figures_cam/cam_idea.png)
 <center>CAM 的idea[2]</center>
 其实图已经很直观了——欲练此功，必先自宫！(辟邪剑法，暴露年龄了)
 你不是用网络做了分类了吗？任何一个CNN 都能分解成特征提取（CNN） 和分类器（classifier，一般是全连接层）对不对？ 把你的分类器删了，添加一个global average pooling (GAP)，这个GAP 的作用就是把你的特征图变成一个标量，那么你有512个特征图就是512个标量了，然后针对每一个类别咱们直接乘以512个权重，让应该归属的类别的点积值在所有分类的点积值中最大，其实就是一个全连接层做分类器。至于怎么搞这512个权重，很简单啊，再训练一遍呗，只有一点切记，我们想看的是原有模型的表现，不是这个辅助模型的特征表现，所有不能够动之前的CNN的权重，因此就是fine-tuning一下，把之前训练好的cnn权重全freeze就好了，只训练全连接层就好了。训练完之后，权重和特征图一相乘，便胜过人间无数。边可以看到特征的重点在哪，一拉伸，一覆盖，我们就知道这模型到底是看腿还是看脸。 等等，这些东西是不是有些熟悉？ 没错，attention is all you need，这就是做了个self-attention啊，还记不记得我前面标粗了一个关注，小彩蛋送给大家。
