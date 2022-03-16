@@ -1,3 +1,1 @@
 Sitemap: https://www.ralphkang.top/sitemap.xml
-User-agent: *
-Allow: 
